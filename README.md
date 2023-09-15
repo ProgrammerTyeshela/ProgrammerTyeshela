@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ProgrammerTyeshela
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning at Goal-Oriented Academy
+- 💞️ I’m looking to collaborate on nothing currently
+- 📫 How to reach me: https://tyeshela.github.io/TyeshelaCV/
